@@ -10,3 +10,8 @@ bkup/
 *.opt
 *.idb
 *.rgs
+*.sbr
+*.pch
+*.pdb
+*.idb
+*.bsc
